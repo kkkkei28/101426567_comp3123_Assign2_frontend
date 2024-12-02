@@ -1,3 +1,6 @@
+# Kei Ishikawa
+## 101426567
+### Comp3123 Assignment2 Frontend 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
