@@ -1,0 +1,38 @@
+/* Home Page container */
+html, body {
+  height: 100%; /* Full viewport height */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full height of the viewport */
+  background: linear-gradient(to right, #000000, #2F4F4F); /* Dark gradient */
+  overflow: hidden; /* Prevent scrolling */
+}
+
+/* Styling for the welcome text */
+.welcome-text {
+  color: #FFD700; /* Gold text for professional look */
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+/* Footer text styling */
+.footer-text {
+  color: #FFFFFF; /* White footer text */
+  font-size: 1.2rem;
+  font-weight: normal;
+  margin-top: 20px;
+}
+
+/* Ensure margins are reset for h1 and p */
+h1, p {
+  margin: 0;
+}

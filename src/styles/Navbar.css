@@ -1,0 +1,18 @@
+.navbar {
+  background-color: #000000 !important; /* Black background */
+  color: #FFD700; /* Gold text */
+  padding: 15px;
+}
+
+.navbar-brand {
+  color: #FFD700; /* Gold text for brand */
+}
+
+.btn {
+  margin-left: 10px;
+}
+
+/* Add a border or some styles for visibility */
+.navbar {
+  border-bottom: 2px solid #FFD700; /* Gold border */
+}
